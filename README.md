@@ -10,4 +10,4 @@ Then right click and run as java application. If you are unable to run then just
 JavaFX plugin and restart your eclipse ide and run it.
 
 ## Example
- 
+![image](https://github.com/rajesh-bhola/javaFX-know-your-next-salary/blob/main/know-your-next-salary-example.png) 
