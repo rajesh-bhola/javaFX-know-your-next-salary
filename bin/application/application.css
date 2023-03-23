@@ -1,0 +1,12 @@
+#mainbody {
+	-fx-background-color: #FAF0E6;
+	-fx-opacity: 1.0;
+}
+#calculate {
+  -fx-background-color: #795bc7;
+  -fx-color: #fff;
+}
+#reset {
+  -fx-background-color: #795bc7;
+  -fx-color: #fff;
+}
